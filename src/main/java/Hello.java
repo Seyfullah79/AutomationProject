@@ -5,7 +5,7 @@ public class Hello {
         // I am ready to commit this
 
         // EU# is awasome !!!
-        // Eu3 is learning how to use git
+        // Eu3 is learning how to use git from IntelliJ
 
     }
 
